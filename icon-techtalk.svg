@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 39.2 39.2">
+  <title>Asset 2</title>
+  <g id="89e64bda-ab63-42ec-bbb9-325e1de12424" data-name="Layer 2">
+    <g id="3cf15167-1cca-4223-a6fc-52dccbca9cb2" data-name="TechTalk_bar">
+      <g id="57792192-8ef4-4529-952f-35513cce3cef" data-name="Layer 2">
+        <path d="M39.2,11.76H21.56V0H17.64V11.76H0V39.2H39.2ZM35.28,35.28H3.92V15.68H35.28Z" fill="#fff"/>
+        <rect x="7.84" y="19.6" width="3.92" height="3.92" fill="#fff"/>
+        <rect x="7.84" y="27.44" width="3.92" height="3.92" fill="#fff"/>
+        <rect x="15.68" y="19.6" width="3.92" height="3.92" fill="#fff"/>
+        <rect x="15.68" y="27.44" width="7.84" height="3.92" fill="#fff"/>
+        <rect x="23.52" y="19.6" width="7.84" height="3.92" fill="#fff"/>
+        <rect x="27.44" y="27.44" width="3.92" height="3.92" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
